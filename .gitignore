@@ -1,0 +1,6 @@
+input*.txt
+*.input
+/input/
+/input
+**/*input*.txt
+**/*input*.txt
